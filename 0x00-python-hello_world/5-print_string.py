@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
 print(f" {str} {str} {str}")
-print('{:.5}'.format('Holberton School'))
+print('{:.9}'.format('Holberton School'))
