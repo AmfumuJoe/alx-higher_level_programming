@@ -1,1 +1,3 @@
-Hello world project\n This ismy first python project
+This is my first ALX python project....
+0x00. Python - Hello, World!!!
+
