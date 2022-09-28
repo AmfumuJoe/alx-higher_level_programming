@@ -8,4 +8,4 @@ def fizzbuzz():
         if i % 3 and i % 5:
             print("{:d}".format(i), end='')
         print(end=' ')
-Footer
+
