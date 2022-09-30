@@ -1,13 +1,19 @@
-readme for 0x03. Python - Data Structures: Lists, Tuples
-Resources
+# readme for 0x03. Python - Data Structures: Lists, Tuples
 
-Read or watch:
+## Resources
+
+### Read or watch:
 
     3.1.3. Lists
-    Data structures (until 5.3. Tuples and Sequences included)
-    Learn to Program 6 : Lists
+    2.Data structures (until 5.3. Tuples and Sequences included)
+    3.Learn to Program 6 : Lists
 
-Learning Objectives
+
+[1](https://alx-intranet.hbtn.io/rltoken/VarQbHxfmbnpGnaGp3Nb_A)
+[2](https://alx-intranet.hbtn.io/rltoken/2aa8Mp-V2eSieGeX3OX8yQ)
+[3](https://alx-intranet.hbtn.io/rltoken/BX2_CuHj1sq4eYGiXbCYSg)
+
+### Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
