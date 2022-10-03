@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2038702b-9a27-4b95-88cb-99164d388e26" name="Changes" comment="solutions" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FG6tzCqAmI11j96ZIEZOao73UG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/king_joe/ALX_Files/alx-higher_level_programming/0x02-python-import_modules"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2038702b-9a27-4b95-88cb-99164d388e26" name="Changes" comment="" />
+      <created>1664106292383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664106292383</updated>
+    </task>
+    <task id="LOCAL-00001" summary="advanced">
+      <created>1664126813051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664126813051</updated>
+    </task>
+    <task id="LOCAL-00002" summary="advanced">
+      <created>1664127136530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664127136530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="advanced">
+      <created>1664127888946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664127888946</updated>
+    </task>
+    <task id="LOCAL-00004" summary="0x01. Python - if/else, loops, functions">
+      <created>1664187253114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664187253114</updated>
+    </task>
+    <task id="LOCAL-00005" summary="0x01. Python - if/else, loops, functions">
+      <created>1664365555239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664365555239</updated>
+    </task>
+    <task id="LOCAL-00006" summary="0x01. Python - if/else, loops, functions">
+      <created>1664366020756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664366020756</updated>
+    </task>
+    <task id="LOCAL-00007" summary="0x01. Python - if/else, loops, functions">
+      <created>1664366926581</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664366926581</updated>
+    </task>
+    <task id="LOCAL-00008" summary="0x01. Python - if/else, loops, functions">
+      <created>1664367614775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664367614776</updated>
+    </task>
+    <task id="LOCAL-00009" summary="0x01. Python - if/else, loops, functions">
+      <created>1664485146375</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664485146375</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="advanced" />
+    <MESSAGE value="0x01. Python - if/else, loops, functions" />
+    <MESSAGE value="solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="solutions" />
+  </component>
+</project>
