@@ -15,7 +15,7 @@ links
 
 ## _**man or help:**_
 
-   [python3]
+   [python3].
 
 #### Learning Objectives
 
